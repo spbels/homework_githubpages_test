@@ -11,4 +11,4 @@
 ### Контакты:
 
  * email: spbels@yandex.ru
- * vk: vk.com/spbels
+ * vk: [vk.com/spbels](vk.com/spbels)
